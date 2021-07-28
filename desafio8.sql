@@ -4,6 +4,8 @@ SELECT c.ContactName AS 'Nome de contato',
 FROM w3schools.orders o
 INNER JOIN w3schools.customers c ON c.CustomerID = o.CustomerID
 INNER JOIN w3schools.shippers s ON s.ShipperID = o.ShipperID
+WHERE s.ShipperName IN ('Speedy Express',
+                        'United Package')
 ORDER BY c.ContactName,
           s.ShipperName,
           o.OrderDate;
