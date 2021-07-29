@@ -1,7 +1,7 @@
-SELECT Country
+SELECT Country as País
 FROM w3schools.customers
 UNION
-SELECT Country
+SELECT Country as País
 FROM w3schools.suppliers
-ORDER BY Country
+ORDER BY País
 LIMIT 5;
