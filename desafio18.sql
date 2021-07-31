@@ -6,4 +6,3 @@ FROM hr.employees e
 INNER JOIN hr.job_history jh ON jh.EMPLOYEE_ID = e.EMPLOYEE_ID
 ORDER BY CONCAT(e.FIRST_NAME, ' ', e.LAST_NAME),
           ROUND(DATEDIFF(END_DATE, START_DATE) / 365, 2);
-    
