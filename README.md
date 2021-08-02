@@ -1,4 +1,4 @@
-# Boas vindas ao repositório do projeto Vocabulary Booster!
+# Boas-vindas ao repositório do projeto Vocabulary Booster!
 
 Aqui você vai encontrar todos os detalhes de como usufruir do que foi desenvolvido.
 
