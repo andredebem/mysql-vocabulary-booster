@@ -44,7 +44,7 @@ Foram utilizados dois bancos de dados: o `hr` e o `w3schools`.
 ---
 
 # Habilidades
-Tive que demonstrar conhecimento suficente para:
+Tive que demonstrar conhecimento suficiente para:
 
   * Criar condicionais no **SQL** usando **IF** e **CASE**
 
