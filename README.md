@@ -84,8 +84,7 @@ Havia uma série de desafios com diferentes níveis de complexidade que deviam s
 
 1. Clone o repositório
   * `git clone https://github.com/andredebem/mysql-vocabulary-booster.git`
-  * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-010-a-mysql-vocabulary-booster`
+  * Entre na pasta do repositório que você acabou de clonar;
 
 2. Instale as dependências
   * `npm i` ou `npm install`
